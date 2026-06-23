@@ -1,0 +1,44 @@
+* {
+    background-color:antiquewhite;
+    color:cadetblue;
+    font-family: Verdana, "Times New Roman", sans-serif;
+    text-align: center;
+    font-size: 24px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    text-align: centers;
+}
+
+ol{
+    padding: 0;
+    margin: 0;
+    text-align: centers;
+}
+
+.one{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.two{
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#home{
+    margin-top: 20px;
+}
